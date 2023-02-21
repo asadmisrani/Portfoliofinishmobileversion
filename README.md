@@ -32,7 +32,7 @@
 
 # 📖 [Portfolio] <a name="Portfolio: finish mobile version"></a>
 
--     [Setup](#Linter)
+-     [Setup](#finish mobile version)
 
 **[Microverse Portfolio: finish mobile version]** is a Portfolio: finish mobile version of Microverse Project.
 
@@ -42,7 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://github.com/asadmisrani/mobilefirst.github.io)
+- [Live Demo Link](https://github.com/asadmisrani/Portfoliofinishmobileversion)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
