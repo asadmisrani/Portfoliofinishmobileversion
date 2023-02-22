@@ -143,12 +143,12 @@ a {
   background-color: white;
 }
 
-.indicator{
+.indicator {
   width: 48px;
-height: 4px;
-margin: auto;
-background: #36B37E;
-border-radius: 24px;
+  height: 4px;
+  margin: auto;
+  background: #36b37e;
+  border-radius: 24px;
 }
 
 .project {
